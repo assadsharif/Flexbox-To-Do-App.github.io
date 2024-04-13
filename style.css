@@ -60,7 +60,7 @@ h2 {
 
 .day.square {
   background-color: steelblue;
-  border: 1px solid white;
+  border: 1px solid #fff;
 }
 
 .task.square {
